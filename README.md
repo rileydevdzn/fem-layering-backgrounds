@@ -27,6 +27,12 @@ Users should be able to:
 
 ### Screenshots
 
+<img
+  src="Profile card - desktop.png"
+  alt="Profile card for Victor Crest of London, who has 80 thousand followers, 803 thousand likes, and 1.4 thousand photos."
+  title="Profile card, desktop version"
+  width="300px">
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -36,7 +42,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Layering CSS backgrounds
+- Layering multiple CSS backgrounds
 - CSS variables
 - CSS Grid
 - Responsive design
