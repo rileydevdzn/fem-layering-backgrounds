@@ -19,8 +19,8 @@
 
 body {
   background: 
-    url(https://assets.codepen.io/3270335/FEM4-bg-pattern-top.svg) top -509px left -285px no-repeat,
-    url(https://assets.codepen.io/3270335/FEM4-bg-pattern-bottom.svg) top 376px left 692px no-repeat, 
+    url("https://github.com/rileydevdzn/profile-card/blob/main/profilecard-bg-pattern-top.svg") top -509px left -285px no-repeat,
+    url("https://github.com/rileydevdzn/profile-card/blob/main/profilecard-bg-pattern-bottom.svg") top 376px left 692px no-repeat, 
     var(--primary-bg);
   font-family: Kumbh Sans, sans-serif;
   font-weight: 400;
@@ -53,7 +53,7 @@ body {
 .profile-imgs {
   grid-area: header;
   width: 100%;
-  background-image: url("https://assets.codepen.io/3270335/FEM-4bg-pattern-card.svg");
+  background-image: url("https://github.com/rileydevdzn/profile-card/blob/main/profilecard-bg-pattern-card.svg");
   border-radius: 15px 15px 0px 0px;
   position: relative;
 }
