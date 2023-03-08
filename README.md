@@ -66,5 +66,5 @@ Now that I've found a syntax I'm comfortable with (personally, I prefer the vers
 
 ## Author
 
-- Website - [Erin Riley](https://rileydevdzn.webflow.io)
+- Website - [rileydevdzn](https://rileydevdzn.webflow.io)
 - Frontend Mentor - [@devrileymk](https://www.frontendmentor.io/profile/devrileymk)
