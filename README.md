@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Profile card component](https://rileydevdzn.github.io/profile-card/)
 
 ## My process
 
