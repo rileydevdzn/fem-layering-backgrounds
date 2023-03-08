@@ -19,7 +19,7 @@
 
 body {
   background: 
-    url("https://github.com/rileydevdzn/profile-card/blob/c6ce151a16646991a16832c7c7c288807a0e97fb/profilecard-bg-pattern-top.svg") top -509px left -285px no-repeat,
+    url("./profilecard-bg-pattern-top.svg") top -509px left -285px no-repeat,
     url("https://github.com/rileydevdzn/profile-card/blob/main/profilecard-bg-pattern-bottom.svg") top 376px left 692px no-repeat, 
     var(--primary-bg);
   font-family: Kumbh Sans, sans-serif;
