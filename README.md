@@ -9,7 +9,7 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Solution](#links)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -39,7 +39,7 @@ Users should be able to:
   <p><em>Desktop and mobile designs</em></p>
 </div>
 
-### Solution
+### Links
 
 - Solution URL: [Profile card component](https://rileydevdzn.github.io/profile-card/)
 
