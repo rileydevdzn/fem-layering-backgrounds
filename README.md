@@ -73,4 +73,4 @@ Now that I've found a `background` syntax I'm comfortable with (personally, I pr
 ## Author
 
 - Website - [E. Riley](https://rileydevdzn.webflow.io)
-- Frontend Mentor - [@devrileymk](https://www.frontendmentor.io/profile/devrileymk)
+- Frontend Mentor - [@rileydevdzn](https://www.frontendmentor.io/profile/rileydevdzn)
